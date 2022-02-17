@@ -1,0 +1,29 @@
+Form
+
+Form is used to make form like subsription form or registration form.
+
+for making a form u can start ny just a simple tag <form> or <form action"">
+if u want to take birthday input by a user u can simply have it by this tag <input type="date"> Instead of making a selection form. for selection form first u have
+to create 12 selection for month the 31 for days and then multiple selection for the years so its lengthy process so simply use that tag what i mention above.
+
+to show something in a tabe like telling a user this tabe is for First name or telling him to right his first name by givving him a hint of someones 
+firstname use place holder.
+u can also create a button so for creating a button use a simple command <button>submit</button>
+Radio button is also a form of a button it is used to give options like gender selection etc. 
+(exp:- for male <input type="radio" name="family tag u can use what ever u want to use here like abc xyz 123 or simply use gender-choice" value="Choice 1">)
+Value is used to get input data to classify in which class it lays like user is male or female or other. same for female button and others button but value will be
+choice 2 choice 3 respectivily. family tag means that asked data or given options are of same class family tag is used to restrict user to select only
+on option at a time like gender u can be both at the same time... u have to choice one option. so if we use differnt names then it will not restrict user then user
+then user can select as many options as much he wants. you can use label command to give a name to a button. for example creating a button for male gender.
+
+  
+
+<label for="gender-male">Male</label>
+<input type="radio" name="gender-choice" value="choice-1">
+
+
+				for female
+
+<label for="gender-female">Female</label>
+<input type="radio" name="gender-choice" value="choice-2">
+				same for others

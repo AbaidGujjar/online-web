@@ -1,0 +1,6 @@
+file source
+
+single dot slash (./) used for same folder.
+slash (/) is used for sub folder (exp:- <img src="/images./shoes.jpg">
+Double dot Slash (../) is used for outside html folder or used for coming back from the html folder
+when ever u need to go back fron folder use double dot slash to use a file or go to a file source.

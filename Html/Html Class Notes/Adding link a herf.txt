@@ -1,0 +1,9 @@
+Adding Link:-
+   
+    <a herf"" is used to add link in your html code.
+You can also show image as a link (Exp:- taking user to apple.com by getting a click on apple logo image)
+
+If u want to open a link in a new tab use target="blank" command in a code 
+(exp:- <a target="blank" herf"https//www.apple.com"></a>)
+If u want to add pic to a link like i described erlier then your code will look like this.
+<a herf"https//www.apple.com"><img src="apple logo.png"></a> in this code i didnt use target command becuase i dont want to open page in new tab.
